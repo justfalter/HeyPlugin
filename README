@@ -1,0 +1,4 @@
+A plugin for Adium that triggers a "Notification Received" event whenever you receive a message that starts with '/hey'... Motivation? I wanted a way to get my co-workers' attention with a customized notification event, but the "/nudge" command is only supported by MSN and YahooMessenger, but I don't use these. Adium also has a "mention" event that fires when your username is mentioned in a group chat window (but not in a one-on-one chat window), and I don't use group chat.  
+
+
+This is my first whack in objective-c, so please be gentle on me.
